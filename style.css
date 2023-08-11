@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(232, 225, 225);
+    justify-content: center; 
+     
+}
+
+#form-validation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(177, 164, 164);
+    color: white;
+    text-align: center;
+    height: 700px;
+}
+
+.validcheck{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.btn-submit {
+text-decoration: none;
+color: white;
+}
